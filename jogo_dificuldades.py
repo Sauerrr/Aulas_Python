@@ -39,3 +39,5 @@ def jogar_adivinhacao():
     
 if __name__ == "__main__":
     jogar_adivinhacao()
+
+    #teste
